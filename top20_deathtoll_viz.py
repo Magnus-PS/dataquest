@@ -1,5 +1,8 @@
 # This code is to be complemented by the "top20_deathtoll.csv" (from DataQuest)
-# It generates a nice, clean horizontal bar plot per Tukey's principles of maximizing the data-ink ratio
+# It generates a nice, clean horizontal bar plot per Tukey's principles
+# The two design principles we focused on were the following:
+# 1. Familiarity: choose what your audience is most familiar with
+# 2. Maximizing the data-ink ratio
 
 import pandas as pd
 import matplotlib.pyplot as plt
