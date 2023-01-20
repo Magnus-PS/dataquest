@@ -1,5 +1,7 @@
 # This code is to be complemented by the "covid_avg_deaths.csv" (from DataQuest)
-# It generates a complex series of line and progress bar subplots while maximizing the data-ink ratio 
+# It generates a complex series of line and progress bar subplots while
+## 1. maximizing the data-ink ratio, and
+## 2. telling the story logically, temporarily and as a series of events 
 
 import pandas as pd
 import matplotlib.pyplot as plt
